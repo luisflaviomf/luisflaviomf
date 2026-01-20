@@ -28,6 +28,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Inteligência Artificial para Monitoramento Rodoviário - Nova Rota do Oeste (BR-163/MT)](https://novarotadooeste.com.br/nova-rota-e-ufmt-firmam-parceria-para-criacao-de-inteligencia-artificial-para-monitorar-a-br-163)  
 - [C#/.NET - Collective Digital Memorial](https://github.com/luisflaviomf/Memorial3)
 - [Java/Vaadin - Collective Digital Memorial(Vaadin framework test)](https://github.com/luisflaviomf/MemorialDigitalColetivoTesteFerramentas)
 - [Python/Django - Phone book](https://github.com/luisflaviomf/Phone-book-in-Django)
